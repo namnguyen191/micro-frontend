@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "products"
+	},
+	{
+		"path": "container"
+	},
+	{
+		"path": "cart"
+	}
+],
+  "settings": {}
+}
