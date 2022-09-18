@@ -34,7 +34,7 @@ const config: webpack.Configuration = {
       name: 'cart',
       filename: 'remoteEntry.js',
       exposes: {
-        './CartShow': './src/index'
+        './CartShow': './src/bootstrap'
       },
       shared: {
         faker: {
